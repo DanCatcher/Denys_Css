@@ -21,9 +21,8 @@ body {
     text-align: center;
     margin: 10px;
 }
-.Img {
-    padding: 10px;
-
+.Imgage-warp {
+    text-align: center;
 }
 .article__description{
     padding: 10px 15px;
