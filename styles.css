@@ -1,0 +1,41 @@
+/**/
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    height: 100%;
+    overflow: hidden;
+
+
+}
+/*.display-block {*/
+/*    display: block;*/
+
+.article__title {
+    color:seashell;
+    padding: 0;
+    font-size:30px;
+    font-weight: normal;
+    text-align: center;
+    margin: 10px;
+}
+.Img {
+    padding: 10px;
+
+}
+.article__description{
+    padding: 10px 15px;
+}
+.Cars{
+    padding: 0;
+    text-align: center;
+    margin: 10px;
+}
+.footer{
+    margin: 10px;
+    text-align: center;
+    color: seashell;
+    font-weight: normal;
+}
